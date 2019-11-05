@@ -3,56 +3,48 @@
       "id": 1,
       "name": "Capheus 'Van Damme'",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thetvdb.com%2Fseries%2Fsense8%2Factors%2F404870&psig=AOvVaw3jrtLA7tijBSnZJUlHNtXw&ust=1573003888430000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjnlrL20eUCFQAAAAAdAAAAABAD",
-      "occupation": "Matatu Driver",
-      "location": "Nairobi"
+      "count": 0
     },
     {
       "id": 2,
       "name": "Sun Bak",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsense8.fandom.com%2Fwiki%2FSun_Bak&psig=AOvVaw33_U7BC5_bCbnpFvpk_DGm&ust=1573004039520000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD9_Pr20eUCFQAAAAAdAAAAABAE",
-      "occupation": "Kick Boxing",
-      "location": "Seoul"
+      "count": 0
     },
     {
       "id": 3,
       "name": "Nomi Marks",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thetvdb.com%2Fseries%2Fsense8%2Factors%2F350370&psig=AOvVaw0pTQXzcL5kZDI9JAF8PEVC&ust=1573004174997000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJif-7_30eUCFQAAAAAdAAAAABAX",
-      "occupation": "Hacker/Blogger",
-      "location": "San Francisco"
+      "count": 0
     },
     {
       "id": 4,
       "name": "Wolfgang Bogdanow",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.independent.co.uk%2Farts-entertainment%2Ftv%2Ffeatures%2Fsense8-season-2-netflix-release-date-max-riemelt-wolfgang-lana-wachowski-a7715936.html&psig=AOvVaw0pTQXzcL5kZDI9JAF8PEVC&ust=1573004174997000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJif-7_30eUCFQAAAAAdAAAAABAE",
-      "occupation": "Locksmith/Safe-Cracker",
-      "location": "Berlin"
+      "count": 0
     },
     {
       "id": 5,
       "name": "Kala Dandekar",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumblr.com%2Ftagged%2Fkala%2Bdandekar%2Bicons&psig=AOvVaw3ZZRWOH9DubpwZCvUelXBk&ust=1573004480629000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDgz8b40eUCFQAAAAAdAAAAABAD",
-      "occupation": "Pharmacist",
-      "location": "Mumbai"
+      "count": 0
     },
     {
       "id": 6,
       "name": "Riley Blue",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Friley_s8&psig=AOvVaw3j-6h99hRvQWN1N6ri1vtD&ust=1573004577433000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCd1_H40eUCFQAAAAAdAAAAABAP",
-      "occupation": "DJ",
-      "location": "Iceland"
+      "count": 0
     },
     {
       "id": 7,
       "name": "Will Gorski",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40puentera%2Fthe-problem-with-sense8-90964685c62f&psig=AOvVaw37Wm22pRxPY2dLNTGDkdrf&ust=1573004728076000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCa6sf50eUCFQAAAAAdAAAAABAD",
-      "occupation": "Police Officer",
-      "location": "Chicago"
+      "count": 0
     },
     {
       "id": 8,
       "name": "Lito Rodriguez",
       "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thetvdb.com%2Fseries%2Fsense8%2Factors%2F348219&psig=AOvVaw2Xct3QM-uqkl1ShGrTvhP7&ust=1573004796239000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNixzen50eUCFQAAAAAdAAAAABAE",
-      "occupation": "Actor",
-      "location": "Mexico City"
+      "count": 0
     }    
   ]
